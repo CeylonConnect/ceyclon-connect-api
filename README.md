@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="client/public/logo.png" alt="CeylonConnect Logo" width="120" />
+<img src="client/src/assets/logo.png" alt="CeylonConnect Logo" width="120" />
 
 # CeylonConnect
 
